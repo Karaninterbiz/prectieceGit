@@ -1,0 +1,14 @@
+C:\Users\IBZ\Desktop\Pooja\Project1\bin\Debug\net8.0\StudentManagementSystem.exe
+C:\Users\IBZ\Desktop\Pooja\Project1\bin\Debug\net8.0\StudentManagementSystem.deps.json
+C:\Users\IBZ\Desktop\Pooja\Project1\bin\Debug\net8.0\StudentManagementSystem.runtimeconfig.json
+C:\Users\IBZ\Desktop\Pooja\Project1\bin\Debug\net8.0\StudentManagementSystem.dll
+C:\Users\IBZ\Desktop\Pooja\Project1\bin\Debug\net8.0\StudentManagementSystem.pdb
+C:\Users\IBZ\Desktop\Pooja\Project1\obj\Debug\net8.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBZ\Desktop\Pooja\Project1\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\IBZ\Desktop\Pooja\Project1\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\IBZ\Desktop\Pooja\Project1\obj\Debug\net8.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\IBZ\Desktop\Pooja\Project1\obj\Debug\net8.0\StudentManagementSystem.dll
+C:\Users\IBZ\Desktop\Pooja\Project1\obj\Debug\net8.0\refint\StudentManagementSystem.dll
+C:\Users\IBZ\Desktop\Pooja\Project1\obj\Debug\net8.0\StudentManagementSystem.pdb
+C:\Users\IBZ\Desktop\Pooja\Project1\obj\Debug\net8.0\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\IBZ\Desktop\Pooja\Project1\obj\Debug\net8.0\ref\StudentManagementSystem.dll
