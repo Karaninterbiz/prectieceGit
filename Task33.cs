@@ -44,17 +44,17 @@ class Sparsematrix
         }
 
           public static void Test()
-  {
-      Console.WriteLine("enter number to check binary representation of n is spars");
-      int n = int.Parse(Console.ReadLine());
-      if (IsSparse(n))
-      {
+         {
+          Console.WriteLine("enter number to check binary representation of n is spars");
+          int n = int.Parse(Console.ReadLine());
+          if (IsSparse(n))
+          {
           Console.WriteLine("true");
-      }
-      else
-      {
+          }
+       else
+        {
           Console.WriteLine("false");
-      }
+         }
 
   }
     }
