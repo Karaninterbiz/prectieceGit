@@ -1,31 +1,27 @@
 ﻿using System;
 
 class Sparsematrix
-{
-    public static int[,] GenerateSpars(int rows, int cols, int Count)
-    {
-        int[,] matrix = new int[rows, cols];
-        Random r = new Random();
+{ public static int[,] GenerateSpars(int rows, int cols, int count)
+ {
+     int[,] matrix = new int[rows, cols];
 
-        for (int i = 0; i < Count; i++)
-        {
-            int m = r.Next(rows);
-            int n = r.Next(cols);
-            int value = r.Next(1, 10);
+     int[,] positions = { { 0, 0 }, { 1, 2 }, { 2, 3 }, { 3, 1 }, { 4, 4 } };
+     int[] values = { 5, 3, 8, 7, 2 };
 
+  
+     count = Math.Min(count, positions.Length / 2);
 
-            while (matrix[m, n] != 0)
-            {
-                m = r.Next(rows);
-                n = r.Next(cols);
-            }
+     for (int i = 0; i < count; i++)
+     {
+         int m = positions[i, 0];
+         int n = positions[i, 1];
+         int value = values[i];
 
-            matrix[m, n] = value;
-        }
+         matrix[m, n] = value;
+     }
 
-        return matrix;
-    }
-
+     return matrix;
+ }
     public static void Print(int[,] matrix)
     {
         int m = matrix.GetLength(0);
