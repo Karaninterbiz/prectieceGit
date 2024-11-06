@@ -43,14 +43,20 @@ class Sparsematrix
             return (n & (n << 1)) == 0;
         }
 
-        public static void Test()
-        {
-            int n = 7;
-            Console.WriteLine(IsSparse(n) ? "true" : "false"); 
+          public static void Test()
+  {
+      Console.WriteLine("enter number to check binary representation of n is spars");
+      int n = int.Parse(Console.ReadLine());
+      if (IsSparse(n))
+      {
+          Console.WriteLine("true");
+      }
+      else
+      {
+          Console.WriteLine("false");
+      }
 
-            n = 5;
-            Console.WriteLine(IsSparse(n) ? "true" : "false"); 
-        }
+  }
     }
 
     public static void Main()
