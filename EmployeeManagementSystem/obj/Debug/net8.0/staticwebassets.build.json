@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "rbp2w7Smgdiy4M1h2L11mjwb69Yp5UyfNtemcSjetNU=",
+  "Source": "EmployeeManagementSystem",
+  "BasePath": "_content/EmployeeManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmployeeManagementSystem\\wwwroot",
+      "Source": "EmployeeManagementSystem",
+      "ContentRoot": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\Reports\\Employee_Payroll_1001.pdf",
+      "SourceId": "EmployeeManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem",
+      "RelativePath": "Reports/Employee_Payroll_1001#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g9en21mnf0",
+      "Integrity": "DFL/AAsU2Y2iFBpx3sH+YozPwe/LuAuEbLh6Ti/Jzc4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Reports\\Employee_Payroll_1001.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\Reports\\Employee_Payroll_1002.pdf",
+      "SourceId": "EmployeeManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem",
+      "RelativePath": "Reports/Employee_Payroll_1002#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cibwumhqil",
+      "Integrity": "vHcltwo8NuHZ+zWbr4InHLRu3u2Ji4tTfrcLHtFOXGA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Reports\\Employee_Payroll_1002.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\Reports\\Employee_Payroll_1003.pdf",
+      "SourceId": "EmployeeManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem",
+      "RelativePath": "Reports/Employee_Payroll_1003#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ugho2imfgz",
+      "Integrity": "blhBR9LuhZQmeByYJLdML31LDWIB5bnbkO6seRL9ZQk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Reports\\Employee_Payroll_1003.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\Reports\\Employee_Payroll_1004.pdf",
+      "SourceId": "EmployeeManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem",
+      "RelativePath": "Reports/Employee_Payroll_1004#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4oraiikgs1",
+      "Integrity": "lMQFlN2z9Yg9ADSLjyqZ8Gvc1KDgBuOHLgTIhsdhWB4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Reports\\Employee_Payroll_1004.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Reports/Employee_Payroll_1001.g9en21mnf0.pdf",
+      "AssetFile": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\Reports\\Employee_Payroll_1001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DFL/AAsU2Y2iFBpx3sH+YozPwe/LuAuEbLh6Ti/Jzc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 07:02:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g9en21mnf0"
+        },
+        {
+          "Name": "label",
+          "Value": "Reports/Employee_Payroll_1001.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DFL/AAsU2Y2iFBpx3sH+YozPwe/LuAuEbLh6Ti/Jzc4="
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1001.pdf",
+      "AssetFile": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\Reports\\Employee_Payroll_1001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DFL/AAsU2Y2iFBpx3sH+YozPwe/LuAuEbLh6Ti/Jzc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 07:02:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DFL/AAsU2Y2iFBpx3sH+YozPwe/LuAuEbLh6Ti/Jzc4="
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1002.cibwumhqil.pdf",
+      "AssetFile": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\Reports\\Employee_Payroll_1002.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vHcltwo8NuHZ+zWbr4InHLRu3u2Ji4tTfrcLHtFOXGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 07:03:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cibwumhqil"
+        },
+        {
+          "Name": "label",
+          "Value": "Reports/Employee_Payroll_1002.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vHcltwo8NuHZ+zWbr4InHLRu3u2Ji4tTfrcLHtFOXGA="
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1002.pdf",
+      "AssetFile": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\Reports\\Employee_Payroll_1002.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vHcltwo8NuHZ+zWbr4InHLRu3u2Ji4tTfrcLHtFOXGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 07:03:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vHcltwo8NuHZ+zWbr4InHLRu3u2Ji4tTfrcLHtFOXGA="
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1003.pdf",
+      "AssetFile": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\Reports\\Employee_Payroll_1003.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"blhBR9LuhZQmeByYJLdML31LDWIB5bnbkO6seRL9ZQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-blhBR9LuhZQmeByYJLdML31LDWIB5bnbkO6seRL9ZQk="
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1003.ugho2imfgz.pdf",
+      "AssetFile": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\Reports\\Employee_Payroll_1003.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"blhBR9LuhZQmeByYJLdML31LDWIB5bnbkO6seRL9ZQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ugho2imfgz"
+        },
+        {
+          "Name": "label",
+          "Value": "Reports/Employee_Payroll_1003.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-blhBR9LuhZQmeByYJLdML31LDWIB5bnbkO6seRL9ZQk="
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1004.4oraiikgs1.pdf",
+      "AssetFile": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\Reports\\Employee_Payroll_1004.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lMQFlN2z9Yg9ADSLjyqZ8Gvc1KDgBuOHLgTIhsdhWB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 10:54:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4oraiikgs1"
+        },
+        {
+          "Name": "label",
+          "Value": "Reports/Employee_Payroll_1004.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lMQFlN2z9Yg9ADSLjyqZ8Gvc1KDgBuOHLgTIhsdhWB4="
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1004.pdf",
+      "AssetFile": "C:\\Users\\ibc\\OneDrive - Interbiz consulting Pvt ltd\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\wwwroot\\Reports\\Employee_Payroll_1004.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lMQFlN2z9Yg9ADSLjyqZ8Gvc1KDgBuOHLgTIhsdhWB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 10:54:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lMQFlN2z9Yg9ADSLjyqZ8Gvc1KDgBuOHLgTIhsdhWB4="
+        }
+      ]
+    }
+  ]
+}

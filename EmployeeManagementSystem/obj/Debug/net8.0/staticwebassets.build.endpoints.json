@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Reports/Employee_Payroll_1001.g9en21mnf0.pdf",
+      "AssetFile": "Reports/Employee_Payroll_1001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DFL/AAsU2Y2iFBpx3sH+YozPwe/LuAuEbLh6Ti/Jzc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 07:02:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g9en21mnf0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DFL/AAsU2Y2iFBpx3sH+YozPwe/LuAuEbLh6Ti/Jzc4="
+        },
+        {
+          "Name": "label",
+          "Value": "Reports/Employee_Payroll_1001.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1001.pdf",
+      "AssetFile": "Reports/Employee_Payroll_1001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DFL/AAsU2Y2iFBpx3sH+YozPwe/LuAuEbLh6Ti/Jzc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 07:02:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DFL/AAsU2Y2iFBpx3sH+YozPwe/LuAuEbLh6Ti/Jzc4="
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1002.cibwumhqil.pdf",
+      "AssetFile": "Reports/Employee_Payroll_1002.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vHcltwo8NuHZ+zWbr4InHLRu3u2Ji4tTfrcLHtFOXGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 07:03:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cibwumhqil"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vHcltwo8NuHZ+zWbr4InHLRu3u2Ji4tTfrcLHtFOXGA="
+        },
+        {
+          "Name": "label",
+          "Value": "Reports/Employee_Payroll_1002.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1002.pdf",
+      "AssetFile": "Reports/Employee_Payroll_1002.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vHcltwo8NuHZ+zWbr4InHLRu3u2Ji4tTfrcLHtFOXGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 07:03:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vHcltwo8NuHZ+zWbr4InHLRu3u2Ji4tTfrcLHtFOXGA="
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1003.pdf",
+      "AssetFile": "Reports/Employee_Payroll_1003.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"blhBR9LuhZQmeByYJLdML31LDWIB5bnbkO6seRL9ZQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 07:05:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-blhBR9LuhZQmeByYJLdML31LDWIB5bnbkO6seRL9ZQk="
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1003.ugho2imfgz.pdf",
+      "AssetFile": "Reports/Employee_Payroll_1003.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"blhBR9LuhZQmeByYJLdML31LDWIB5bnbkO6seRL9ZQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 07:05:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ugho2imfgz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-blhBR9LuhZQmeByYJLdML31LDWIB5bnbkO6seRL9ZQk="
+        },
+        {
+          "Name": "label",
+          "Value": "Reports/Employee_Payroll_1003.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1004.4oraiikgs1.pdf",
+      "AssetFile": "Reports/Employee_Payroll_1004.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lMQFlN2z9Yg9ADSLjyqZ8Gvc1KDgBuOHLgTIhsdhWB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 10:54:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4oraiikgs1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lMQFlN2z9Yg9ADSLjyqZ8Gvc1KDgBuOHLgTIhsdhWB4="
+        },
+        {
+          "Name": "label",
+          "Value": "Reports/Employee_Payroll_1004.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Reports/Employee_Payroll_1004.pdf",
+      "AssetFile": "Reports/Employee_Payroll_1004.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lMQFlN2z9Yg9ADSLjyqZ8Gvc1KDgBuOHLgTIhsdhWB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 10:54:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lMQFlN2z9Yg9ADSLjyqZ8Gvc1KDgBuOHLgTIhsdhWB4="
+        }
+      ]
+    }
+  ]
+}

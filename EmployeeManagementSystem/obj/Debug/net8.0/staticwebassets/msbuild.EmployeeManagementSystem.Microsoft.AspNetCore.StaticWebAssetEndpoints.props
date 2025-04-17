@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/EmployeeManagementSystem/Reports/Employee_Payroll_1001.g9en21mnf0.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Reports\Employee_Payroll_1001.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g9en21mnf0"},{"Name":"integrity","Value":"sha256-DFL/AAsU2Y2iFBpx3sH\u002BYozPwe/LuAuEbLh6Ti/Jzc4="},{"Name":"label","Value":"_content/EmployeeManagementSystem/Reports/Employee_Payroll_1001.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"28337"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022DFL/AAsU2Y2iFBpx3sH\u002BYozPwe/LuAuEbLh6Ti/Jzc4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 07:02:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmployeeManagementSystem/Reports/Employee_Payroll_1001.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Reports\Employee_Payroll_1001.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DFL/AAsU2Y2iFBpx3sH\u002BYozPwe/LuAuEbLh6Ti/Jzc4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"28337"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022DFL/AAsU2Y2iFBpx3sH\u002BYozPwe/LuAuEbLh6Ti/Jzc4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 07:02:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmployeeManagementSystem/Reports/Employee_Payroll_1002.cibwumhqil.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Reports\Employee_Payroll_1002.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cibwumhqil"},{"Name":"integrity","Value":"sha256-vHcltwo8NuHZ\u002BzWbr4InHLRu3u2Ji4tTfrcLHtFOXGA="},{"Name":"label","Value":"_content/EmployeeManagementSystem/Reports/Employee_Payroll_1002.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29663"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022vHcltwo8NuHZ\u002BzWbr4InHLRu3u2Ji4tTfrcLHtFOXGA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 07:03:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmployeeManagementSystem/Reports/Employee_Payroll_1002.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Reports\Employee_Payroll_1002.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vHcltwo8NuHZ\u002BzWbr4InHLRu3u2Ji4tTfrcLHtFOXGA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"29663"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022vHcltwo8NuHZ\u002BzWbr4InHLRu3u2Ji4tTfrcLHtFOXGA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 07:03:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmployeeManagementSystem/Reports/Employee_Payroll_1003.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Reports\Employee_Payroll_1003.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-blhBR9LuhZQmeByYJLdML31LDWIB5bnbkO6seRL9ZQk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"29384"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022blhBR9LuhZQmeByYJLdML31LDWIB5bnbkO6seRL9ZQk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 07:05:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmployeeManagementSystem/Reports/Employee_Payroll_1003.ugho2imfgz.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Reports\Employee_Payroll_1003.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ugho2imfgz"},{"Name":"integrity","Value":"sha256-blhBR9LuhZQmeByYJLdML31LDWIB5bnbkO6seRL9ZQk="},{"Name":"label","Value":"_content/EmployeeManagementSystem/Reports/Employee_Payroll_1003.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29384"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022blhBR9LuhZQmeByYJLdML31LDWIB5bnbkO6seRL9ZQk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 07:05:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmployeeManagementSystem/Reports/Employee_Payroll_1004.4oraiikgs1.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Reports\Employee_Payroll_1004.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4oraiikgs1"},{"Name":"integrity","Value":"sha256-lMQFlN2z9Yg9ADSLjyqZ8Gvc1KDgBuOHLgTIhsdhWB4="},{"Name":"label","Value":"_content/EmployeeManagementSystem/Reports/Employee_Payroll_1004.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29097"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022lMQFlN2z9Yg9ADSLjyqZ8Gvc1KDgBuOHLgTIhsdhWB4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 10:54:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmployeeManagementSystem/Reports/Employee_Payroll_1004.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Reports\Employee_Payroll_1004.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lMQFlN2z9Yg9ADSLjyqZ8Gvc1KDgBuOHLgTIhsdhWB4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"29097"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022lMQFlN2z9Yg9ADSLjyqZ8Gvc1KDgBuOHLgTIhsdhWB4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 10:54:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
