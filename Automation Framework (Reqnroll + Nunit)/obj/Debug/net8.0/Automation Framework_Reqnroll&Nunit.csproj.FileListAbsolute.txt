@@ -1,5 +1,0 @@
-C:\Users\ibc\source\repos\Automation Framework (Reqnroll + Nunit)\obj\Debug\net8.0\Automation Framework_Reqnroll&Nunit.csproj.AssemblyReference.cache
-C:\Users\ibc\source\repos\Automation Framework (Reqnroll + Nunit)\obj\Debug\net8.0\Automation Framework_Reqnroll&Nunit.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ibc\source\repos\Automation Framework (Reqnroll + Nunit)\obj\Debug\net8.0\Automation Framework_Reqnroll&Nunit.AssemblyInfoInputs.cache
-C:\Users\ibc\source\repos\Automation Framework (Reqnroll + Nunit)\obj\Debug\net8.0\Automation Framework_Reqnroll&Nunit.AssemblyInfo.cs
-C:\Users\ibc\source\repos\Automation Framework (Reqnroll + Nunit)\obj\Debug\net8.0\Automation Framework_Reqnroll&Nunit.csproj.CoreCompileInputs.cache
