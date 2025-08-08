@@ -1,0 +1,21 @@
+06-08-2025 11:32:07: Employee Added : ID = 101, Name = chitresh, Type = FullTimeEmployee
+06-08-2025 13:09:16: Employee Added : ID = 10, Name = cdfv, Type = FullTimeEmployee
+07-08-2025 11:04:21: Import error: Specified import file not found.
+07-08-2025 11:16:21: Error importing line: Requested value 'Recruiter' was not found.
+07-08-2025 11:16:21: Error importing line: Requested value 'Finance' was not found.
+07-08-2025 11:16:21: Error importing line: Requested value 'IT' was not found.
+07-08-2025 11:16:21: Bulk employee import completed from file: C:\Users\IBZ\source\repos\1.Project\import.txt
+07-08-2025 11:16:57: Error importing line: Requested value 'Recruiter' was not found.
+07-08-2025 11:16:57: Error importing line: Requested value 'Finance' was not found.
+07-08-2025 11:16:57: Error importing line: Requested value 'IT' was not found.
+07-08-2025 11:16:57: Bulk employee import completed from file: C:\Users\IBZ\source\repos\1.Project\import.txt
+07-08-2025 12:24:00: Employee Added : ID = 1, Name = chitresh, Type = FullTimeEmployee
+07-08-2025 12:37:01: Error importing line: Requested value 'Recruiter' was not found.
+07-08-2025 12:37:01: Error importing line: Requested value 'Finance' was not found.
+07-08-2025 12:37:01: Error importing line: Requested value 'IT' was not found.
+07-08-2025 12:37:01: Bulk employee import completed from file: C:\Users\IBZ\source\repos\1.Project\import.txt
+07-08-2025 12:38:25: Error importing line: Requested value 'Recruiter' was not found.
+07-08-2025 12:38:25: Error importing line: Requested value 'Finance' was not found.
+07-08-2025 12:38:25: Error importing line: Requested value 'IT' was not found.
+07-08-2025 12:38:25: Bulk employee import completed from file: C:\Users\IBZ\source\repos\1.Project\import.txt
+07-08-2025 13:08:00: Employee Added : ID = 1, Name = fgbhf, Type = PartTimeEmployee
