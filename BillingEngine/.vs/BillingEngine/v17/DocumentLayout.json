@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BillingEngine\\BillingEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C751C5BD-1676-4D98-8963-3CA090CA4DFC}|FinancialModule.Infrastructure\\FinancialModule.Infrastructure.csproj|d:\\billingengine\\billingengine\\financialmodule.infrastructure\\repositories\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C751C5BD-1676-4D98-8963-3CA090CA4DFC}|FinancialModule.Infrastructure\\FinancialModule.Infrastructure.csproj|solutionrelative:financialmodule.infrastructure\\repositories\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B267A8A-8AAD-4DDE-80B0-29CD411B9E3C}|FinancialModule.Contracts\\FinancialModule.Contracts.csproj|d:\\billingengine\\billingengine\\financialmodule.contracts\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B267A8A-8AAD-4DDE-80B0-29CD411B9E3C}|FinancialModule.Contracts\\FinancialModule.Contracts.csproj|solutionrelative:financialmodule.contracts\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceDto.cs",
+              "DocumentMoniker": "D:\\BillingEngine\\BillingEngine\\FinancialModule.Contracts\\DTOs\\InvoiceDto.cs",
+              "RelativeDocumentMoniker": "FinancialModule.Contracts\\DTOs\\InvoiceDto.cs",
+              "ToolTip": "D:\\BillingEngine\\BillingEngine\\FinancialModule.Contracts\\DTOs\\InvoiceDto.cs",
+              "RelativeToolTip": "FinancialModule.Contracts\\DTOs\\InvoiceDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:52:09.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "D:\\BillingEngine\\BillingEngine\\FinancialModule.Infrastructure\\Repositories\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "FinancialModule.Infrastructure\\Repositories\\InvoiceRepository.cs",
+              "ToolTip": "D:\\BillingEngine\\BillingEngine\\FinancialModule.Infrastructure\\Repositories\\InvoiceRepository.cs",
+              "RelativeToolTip": "FinancialModule.Infrastructure\\Repositories\\InvoiceRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:31:26.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dee22b65-9761-4a26-8fb2-759b971d6dfc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
