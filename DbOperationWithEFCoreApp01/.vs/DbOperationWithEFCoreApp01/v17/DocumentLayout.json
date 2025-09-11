@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EntityFrameWorkPrecties\\training-repo\\DbOperationWithEFCoreApp01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA20A9F-D7D2-4467-A0EF-7BD880B1C165}|DbOperationWithEFCoreApp01\\DbOperationWithEFCoreApp01.csproj|d:\\entityframeworkprecties\\training-repo\\dboperationwithefcoreapp01\\dboperationwithefcoreapp01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA20A9F-D7D2-4467-A0EF-7BD880B1C165}|DbOperationWithEFCoreApp01\\DbOperationWithEFCoreApp01.csproj|solutionrelative:dboperationwithefcoreapp01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA20A9F-D7D2-4467-A0EF-7BD880B1C165}|DbOperationWithEFCoreApp01\\DbOperationWithEFCoreApp01.csproj|d:\\entityframeworkprecties\\training-repo\\dboperationwithefcoreapp01\\dboperationwithefcoreapp01\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA20A9F-D7D2-4467-A0EF-7BD880B1C165}|DbOperationWithEFCoreApp01\\DbOperationWithEFCoreApp01.csproj|solutionrelative:dboperationwithefcoreapp01\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EntityFrameWorkPrecties\\training-repo\\DbOperationWithEFCoreApp01\\DbOperationWithEFCoreApp01\\Program.cs",
+              "RelativeDocumentMoniker": "DbOperationWithEFCoreApp01\\Program.cs",
+              "ToolTip": "D:\\EntityFrameWorkPrecties\\training-repo\\DbOperationWithEFCoreApp01\\DbOperationWithEFCoreApp01\\Program.cs",
+              "RelativeToolTip": "DbOperationWithEFCoreApp01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T06:07:24.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\EntityFrameWorkPrecties\\training-repo\\DbOperationWithEFCoreApp01\\DbOperationWithEFCoreApp01\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DbOperationWithEFCoreApp01\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\EntityFrameWorkPrecties\\training-repo\\DbOperationWithEFCoreApp01\\DbOperationWithEFCoreApp01\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DbOperationWithEFCoreApp01\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T06:01:51.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
